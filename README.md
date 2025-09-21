@@ -3,5 +3,5 @@
 ![image alt](Homepage.png)
 ![image alt](Experiences.png)
 
-#HostDashBoard
+# Host DashBoard
 ![image alt](HostDashboard.png)
